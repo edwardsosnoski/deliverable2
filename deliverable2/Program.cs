@@ -82,6 +82,7 @@ namespace deliverable2
             string transportationSuggestion = SuggestTransportation(userCompanions);
 
             Console.WriteLine("In that case, you should take " + transportationSuggestion + " and go " + activitySuggestion + "! Have a great time!");
+            Console.WriteLine("Goodbye!");
         }
     }
 }
