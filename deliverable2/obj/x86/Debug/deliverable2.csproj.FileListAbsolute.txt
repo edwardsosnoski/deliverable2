@@ -1,0 +1,6 @@
+/Users/edwardsosnoski/Documents/GrandCircus/Prework/deliverable2/deliverable2/obj/x86/Debug/deliverable2.csprojAssemblyReference.cache
+/Users/edwardsosnoski/Documents/GrandCircus/Prework/deliverable2/deliverable2/obj/x86/Debug/deliverable2.csproj.CoreCompileInputs.cache
+/Users/edwardsosnoski/Documents/GrandCircus/Prework/deliverable2/deliverable2/bin/Debug/deliverable2.exe
+/Users/edwardsosnoski/Documents/GrandCircus/Prework/deliverable2/deliverable2/bin/Debug/deliverable2.pdb
+/Users/edwardsosnoski/Documents/GrandCircus/Prework/deliverable2/deliverable2/obj/x86/Debug/deliverable2.exe
+/Users/edwardsosnoski/Documents/GrandCircus/Prework/deliverable2/deliverable2/obj/x86/Debug/deliverable2.pdb
